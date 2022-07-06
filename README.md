@@ -1,4 +1,4 @@
-# unity_pile-solitaire
- Pile Solitaire card game
+# unity_pacman
+ Pacman clone
 
 Version .exe dans le .zip PacmanClone.zip
